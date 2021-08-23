@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a Student, Leraner, Developer!!
+## I'm a Student, Learner, Developer!!
 
 - 🌱 I’m currently learning Node.js for backend development
 - 👯 I’m looking forward for help from experinced mern stack devs
