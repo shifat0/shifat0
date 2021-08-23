@@ -1,11 +1,15 @@
 ### Hi there, I'm Shifat 👋
 
+---
+
 ## I'm a Student, Leraner, Developer!!
 
 - 🌱 I’m currently learning Node.js for backend development
 - 👯 I’m looking forward for help from experinced mern stack devs
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to football and play video-games
+
+---
 
 ### Connect with me:
 
@@ -33,13 +37,10 @@
 
 <br />
 <br />
+
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shifatDev&show_icons=true&theme=radical" />
-
-## </details>
+![Shifat's Github Status](<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shifatDev&show_icons=true&theme=radical" />)
 
 [twitter]: https://twitter.com/SifatKh86893561
 [facebook]: https://www.facebook.com/profile.php?id=100046112835726
