@@ -4,10 +4,10 @@
 
 ## I'm a Student, Learner, Developer!!
 
-- 🌱 I’m currently learning Node.js for backend development
+- 🌱 I’m currently learning Node.js, ExpressJs, MongoDB for backend development
 - 👯 I’m looking forward for help from experinced mern stack devs
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to football and play video-games
+- ⚡ Fun fact: I love to play football and play video-games
 
 ---
 
