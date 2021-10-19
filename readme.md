@@ -42,7 +42,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifatDev&layout=compact)](https://github.com/shifatDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifatDev&layout=compact)](https://github.com/shifat0/github-readme-stats)
 
 ---
 
@@ -50,7 +50,7 @@
 
 <br />
 <br />
-<img align="left" alt="shifat's's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shifatDev&show_icons=true&theme=radical" />
+<img align="left" alt="shifat's's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shifat0&show_icons=true&theme=radical" />
 
 [twitter]: https://twitter.com/SifatKh86893561
 [facebook]: https://www.facebook.com/profile.php?id=100046112835726
