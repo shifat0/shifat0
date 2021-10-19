@@ -42,7 +42,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifatDev&layout=compact)](https://github.com/shifat0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifat0&layout=compact)](https://github.com/shifat0/github-readme-stats)
 
 ---
 
