@@ -16,11 +16,8 @@
 <p align="left">
 <a href="https://twitter.com/SifatKh86893561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shifat's Twitter profile" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-shoaib-akhter-shifat-95752a1ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shifat's Linkedin profile" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100046112835726" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="Shifat's Facebook profile" height="30" width="40" /></a>
 </p>
-
-[<img align="left" alt="sifat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sifat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sifat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -48,7 +45,6 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifat0&layout=compact)](https://github.com/shifat0/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifat0&layout=compact)](https://github.com/shifat0/github-readme-stats)
 
 ---
 
@@ -56,7 +52,6 @@
 
 <br />
 <br />
-<img align="left" alt="shifat's's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shifat0&show_icons=true&theme=radical" />
 <img align="left" alt="shifat's's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shifat0&show_icons=true&theme=radical" />
 
 [twitter]: https://twitter.com/SifatKh86893561
