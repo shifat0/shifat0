@@ -47,7 +47,8 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifat0&layout=compact)](https://github.com/shifat0/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shifat0&show_icons=true&locale=en&layout=compact" alt="shifat0" /></p>
+
 
 ---
 
@@ -61,3 +62,12 @@
 [facebook]: https://www.facebook.com/profile.php?id=100046112835726
 [linkedin]: https://linkedin.com/in/md-shoaib-akhter-shifat-95752a1ba
 [stack-overflow]: https://stackoverflow.com/users/15989016/md-shoaib-akhter-shifat
+<br />
+
+
+---
+
+### Streak
+
+<br />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shifat0&" alt="shifat0" /></p>
