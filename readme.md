@@ -79,4 +79,4 @@
 ### Streak
 
 <br />
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shifat0&" alt="shifat0" /></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shifat0&" alt="shifat0" /></p>
