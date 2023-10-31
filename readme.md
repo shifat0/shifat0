@@ -47,7 +47,7 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shifat0&show_icons=true&locale=en&layout=compact" alt="shifat0" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat0&show_icons=true&locale=en&layout=compact" alt="shifat0" /></p>
 
 
 ---
