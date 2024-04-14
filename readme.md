@@ -1,82 +1,88 @@
-<h1 align="center">Hi there, I'm Shoaib Akhter Shifat 👋</h1>
+### <h1 align="center">Hi there, I'm Md. Shoaib Akhter Shifat 👋</h1>
 
-
-<h3 align="center">I am still learning and developing websites</h3>
-
-- 🌱 I’m currently practicing MERN stack development
-- 👯 I’m looking forward for help from experinced mern stack devs
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to football and play video-games
-
----
+<hr />
+<h3 align="center" >Software Engineer</h3>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 
 <p align="left">
-<a href="https://twitter.com/SifatKh86893561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shifat's Twitter profile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-shoaib-akhter-shifat-95752a1ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shifat's Linkedin profile" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100046112835726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shifat's Facebook profile" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15989016/md-shoaib-akhter-shifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Shifat's Stack-overflow profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-shoaib-akhter-shifat-95752a1ba" target="blank">
+   <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+</a>
+<a href="https://www.hackerrank.com/profile/shifat0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"  />
+  </a>
+<a href="https://medium.com/@sifuisu3" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="medium logo"  />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100046112835726" target="blank">
+   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+</a>
+<a href="https://stackoverflow.com/users/15989016/md-shoaib-akhter-shifat" target="blank">
+     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
+</a>
+<a href="https://twitter.com/SifatKh86893561" target="blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+</a>
 </p>
 <br />
 
-
----
-
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Typescript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="React" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Redux" width="40" height="40" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" />
+<img align="left" alt="Express.js" width="40" height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
+<img align="left" alt="MongoDB" width="40" height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <br />
 <br />
 <br />
 
+<!--
+    ### Most Used Languages
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat0&show_icons=true&locale=en&layout=compact&theme=radical" alt="shifat0" /></p>
+ -->
 
----
+### My Github Status
 
-### Most Used Languages
+<table align="center">
+  <tr>
+    <td>
+       <img alt="shifat's's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shifat0&show_icons=true&theme=radical" />
+    </td>
+    <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shifat0&show_icons=true&theme=radical" alt="shifat0" />
+    </td>
+  </tr>
+</table>
 
-<br />
+### My Commits Graph & Top Languages
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat0&show_icons=true&locale=en&layout=compact" alt="shifat0" /></p>
+<table align="center">
+  <tr>
+    <td width="70%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=shifat0&area=true&hide_border=true&custom_title=Shifat's%20GitHub%20Commits%20Graph&theme=radical" alt="GitHub Commits Graph" />
+    </td>
+    <td align="center" width="30%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat0&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-
----
-
-### Shifat's Github Status
-
-<br />
-<br />
-<img align="left" alt="shifat's's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shifat0&show_icons=true&theme=radical" />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<!--Profile Views <p align="left"> <img src="https://komarev.com/ghpvc/?username=shifat0&label=Profile%20views&color=0e75b6&style=flat" alt="shifat0 profile views" /> </p> -->
 
 [twitter]: https://twitter.com/SifatKh86893561
 [facebook]: https://www.facebook.com/profile.php?id=100046112835726
 [linkedin]: https://linkedin.com/in/md-shoaib-akhter-shifat-95752a1ba
 [stack-overflow]: https://stackoverflow.com/users/15989016/md-shoaib-akhter-shifat
-
-
-
----
-
-### Streak
-
-<br />
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shifat0&" alt="shifat0" /></p>
